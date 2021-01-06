@@ -1,0 +1,16 @@
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\Model.dll.config
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\Model.dll
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\Model.pdb
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\EntityFramework.dll
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\EntityFramework.xml
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\obj\Debug\Model.dll
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\obj\Debug\Model.pdb
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\PagedList.dll
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\PagedList.xml
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\PagedList.Mvc.xml
